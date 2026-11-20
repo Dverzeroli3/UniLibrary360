@@ -12,4 +12,4 @@ Sistema software in Java per la gestione operativa di una biblioteca universitar
 * `codice/UL360_UniLibrary/` — Progetto Eclipse/Maven con sorgenti Java, database embedded H2 e test JUnit 5.
 
 ## Documentazione
-* [Project Plan (v1.0.0)](documenti/Project_Plan.md)
+* [Project Plan (v1.0.0)](documenti/Project_Plan.pdf)
